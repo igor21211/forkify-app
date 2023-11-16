@@ -10,7 +10,11 @@
   "author": "Tobi",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.2",
     "parcel": "^2.10.2",
     "sass": "1.69.5"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0"
   }
 }
