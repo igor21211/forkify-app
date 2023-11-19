@@ -669,7 +669,7 @@ const init = function() {
 };
 init();
 
-},{"./model.js":"Y4A21","./views/recipeView.js":"l60JC","./views/searchView.js":"9OQAM","./views/sideBarView.js":"gFE3O","./views/paginationViews.js":"lJFap","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./views/bookmarksViews.js":"adBr1","./views/addRecipeView.js":"i6DNj","./config":"k5Hzs"}],"Y4A21":[function(require,module,exports) {
+},{"./model.js":"Y4A21","./config":"k5Hzs","./views/recipeView.js":"l60JC","./views/searchView.js":"9OQAM","./views/sideBarView.js":"gFE3O","./views/paginationViews.js":"lJFap","./views/bookmarksViews.js":"adBr1","./views/addRecipeView.js":"i6DNj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"Y4A21":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "state", ()=>state);
@@ -1433,7 +1433,7 @@ class SideBarViews extends (0, _viewsDefault.default) {
 }
 exports.default = new SideBarViews();
 
-},{"url:../../img/icons.svg":"loVOp","./Views":"tgSJX","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./previewView":"1FDQ6"}],"1FDQ6":[function(require,module,exports) {
+},{"url:../../img/icons.svg":"loVOp","./Views":"tgSJX","./previewView":"1FDQ6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"1FDQ6":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _iconsSvg = require("url:../../img/icons.svg");
@@ -1524,7 +1524,7 @@ class PaginationViews extends (0, _viewsDefault.default) {
 }
 exports.default = new PaginationViews();
 
-},{"./Views":"tgSJX","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","url:../../img/icons.svg":"loVOp"}],"adBr1":[function(require,module,exports) {
+},{"./Views":"tgSJX","url:../../img/icons.svg":"loVOp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"adBr1":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _iconsSvg = require("url:../../img/icons.svg");
@@ -1546,7 +1546,7 @@ class BookMarkViews extends (0, _viewsDefault.default) {
 }
 exports.default = new BookMarkViews();
 
-},{"url:../../img/icons.svg":"loVOp","./Views":"tgSJX","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./previewView":"1FDQ6"}],"i6DNj":[function(require,module,exports) {
+},{"url:../../img/icons.svg":"loVOp","./previewView":"1FDQ6","./Views":"tgSJX","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"i6DNj":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _views = require("./Views");
