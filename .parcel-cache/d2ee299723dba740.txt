@@ -1920,7 +1920,7 @@
 66/home/tobi/js-apps/forkify-app/node_modules/js-tokens/package.json1699990587869052888 0
 111/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeTitle.js1699990588161056232 0
 85/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/eventsource.js1699990588013054537 0
-46/home/tobi/js-apps/forkify-app/src/js/model.js1700336987984012950 0
+46/home/tobi/js-apps/forkify-app/src/js/model.js1700391636612166484 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/LY.js1699990588037054811 0
 70/home/tobi/js-apps/forkify-app/node_modules/@parcel/utils/src/index.js1699990591941099539 0
 69/home/tobi/js-apps/forkify-app/node_modules/csso/cjs/replace/property1699990587881053024 1
@@ -2270,7 +2270,7 @@
 77/home/tobi/js-apps/forkify-app/node_modules/htmlparser2/lib/WritableStream.js1699990587869052888 0
 92/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/csso/LICENSE1699990592561106646 0
 120/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/atrule/import.js1699990588225056964 0
-57/home/tobi/js-apps/forkify-app/src/js/views/recipeView.js1700338146291741510 0
+57/home/tobi/js-apps/forkify-app/src/js/views/recipeView.js1700392073135649482 0
 119/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/definition-syntax/parse.js1699990592721108481 0
 121/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeEmptyContainers.js1699990588161056232 0
 68/home/tobi/js-apps/forkify-app/node_modules/glob-parent/package.json1699990635805604512 0
@@ -2394,7 +2394,7 @@
 65/home/tobi/js-apps/forkify-app/node_modules/css-tree/lib/index.js1699990587957053894 0
 89/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/.bin/svgo1699990597557163951 0
 52/home/tobi/js-apps/forkify-app/node_modules/boolbase1699990587825052383 1
-51/home/tobi/js-apps/forkify-app/src/js/controller.js1700339917272408582 0
+51/home/tobi/js-apps/forkify-app/src/js/controller.js1700392102363882713 0
 82/home/tobi/js-apps/forkify-app/node_modules/@parcel/core/test/fixtures/module-a.js1699990592861110085 0
 88/home/tobi/js-apps/forkify-app/node_modules/node-gyp-build-optional-packages/optional.js1699990587937053667 0
 79/home/tobi/js-apps/forkify-app/node_modules/@parcel/reporter-dev-server/LICENSE1699990592481105730 0
@@ -2463,17 +2463,17 @@
 88/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/pagevisibility.js1699990588045054902 0
 72/home/tobi/js-apps/forkify-app/node_modules/sass/types/value/string.d.ts1699990635897605575 0
 82/home/tobi/js-apps/forkify-app/node_modules/@parcel/transformer-image/package.json1699990590481082807 0
-54/home/tobi/js-apps/forkify-app/dist/icons.21bad73c.svg1700337452074221858 0
+54/home/tobi/js-apps/forkify-app/dist/icons.21bad73c.svg1700392073323650981 0
 67/home/tobi/js-apps/forkify-app/node_modules/to-regex-range/index.js1699990587889053116 0
 78/home/tobi/js-apps/forkify-app/node_modules/@parcel/codeframe/lib/codeframe.js1699990589145067502 0
 84/home/tobi/js-apps/forkify-app/node_modules/css-what/lib/commonjs/stringify.d.ts.map1699990587869052888 0
-53/home/tobi/js-apps/forkify-app/dist/logo.726d37a8.png1700337452058221641 0
+53/home/tobi/js-apps/forkify-app/dist/logo.726d37a8.png1700392073279650631 0
 63/home/tobi/js-apps/forkify-app/node_modules/color-name/index.js1699990587825052383 0
 101/home/tobi/js-apps/forkify-app/node_modules/csso/node_modules/css-tree/cjs/syntax/node/MediaQuery.cjs1699990592173102200 0
-35/home/tobi/js-apps/forkify-app/dist1700340029565970483 1
+35/home/tobi/js-apps/forkify-app/dist1700392102391882937 1
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/MV.js1699990588041054856 0
 82/home/tobi/js-apps/forkify-app/node_modules/css-tree/lib/syntax/node/MediaQuery.js1699990587961053940 0
-46/home/tobi/js-apps/forkify-app/dist/index.html1700337452074221858 0
+46/home/tobi/js-apps/forkify-app/dist/index.html1700392073323650981 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/NL.js1699990588041054856 0
 78/home/tobi/js-apps/forkify-app/node_modules/css-tree/cjs/syntax/node/index.cjs1699990587921053483 0
 119/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/utils/createCustomError.js1699990592577106830 0
@@ -2483,7 +2483,7 @@
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/IL.js1699990588025054676 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/LT.js1699990588037054811 0
 116/home/tobi/js-apps/forkify-app/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Function.js1699990592657107746 0
-57/home/tobi/js-apps/forkify-app/dist/index.e37f48ea.js.map1700340029565970483 0
+57/home/tobi/js-apps/forkify-app/dist/index.e37f48ea.js.map1700392102391882937 0
 72/home/tobi/js-apps/forkify-app/node_modules/htmlnano/docs/versioned_docs1699990588713062553 1
 85/home/tobi/js-apps/forkify-app/node_modules/csso/cjs/replace/property/font-weight.cjs1699990587881053024 0
 74/home/tobi/js-apps/forkify-app/node_modules/css-select/lib/attributes.d.ts1699990587913053391 0
@@ -2513,7 +2513,7 @@
 104/home/tobi/js-apps/forkify-app/node_modules/csso/node_modules/css-tree/lib/tokenizer/OffsetToLocation.js1699990592261103208 0
 79/home/tobi/js-apps/forkify-app/node_modules/@parcel/transformer-js/package.json1699990589973076987 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/HR.js1699990588021054629 0
-58/home/tobi/js-apps/forkify-app/dist/index.f7626f62.css.map1700337452054221589 0
+58/home/tobi/js-apps/forkify-app/dist/index.f7626f62.css.map1700392073271650568 0
 78/home/tobi/js-apps/forkify-app/node_modules/cosmiconfig/dist/ExplorerBase.d.ts1699990588013054537 0
 92/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/cjs/_class_apply_descriptor_set.cjs1699990588333058202 0
 99/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/_/_class_apply_descriptor_set/package.json1699990588361058521 0
@@ -2652,7 +2652,7 @@
 65/home/tobi/js-apps/forkify-app/node_modules/picomatch/lib/scan.js1699990587905053299 0
 85/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/src/_object_spread_props.mjs1699990588385058797 0
 74/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/esm/_construct.js1699990588349058385 0
-56/home/tobi/js-apps/forkify-app/dist/favicon.8b2f57bf.png1700337452050221533 0
+56/home/tobi/js-apps/forkify-app/dist/favicon.8b2f57bf.png1700392073267650533 0
 92/home/tobi/js-apps/forkify-app/node_modules/css-select/lib/esm/pseudo-selectors/pseudos.d.ts1699990587917053437 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/MM.js1699990588037054811 0
 95/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/esm/_class_extract_field_descriptor.js1699990588345058339 0
@@ -2702,7 +2702,7 @@
 61/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/dist1699990588061055086 1
 84/home/tobi/js-apps/forkify-app/node_modules/css-select/node_modules/domutils/lib/esm1699990592273103345 1
 93/home/tobi/js-apps/forkify-app/node_modules/@parcel/runtime-js/lib/helpers/node/css-loader.js1699990590941088079 0
-54/home/tobi/js-apps/forkify-app/dist/icons.dfd7a6db.svg1700337452074221858 0
+54/home/tobi/js-apps/forkify-app/dist/icons.dfd7a6db.svg1700392073323650981 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/BS.js1699990587993054307 0
 61/home/tobi/js-apps/forkify-app/node_modules/lmdb/src/misc.cpp1699990588773063240 0
 90/home/tobi/js-apps/forkify-app/node_modules/@swc/helpers/_/_class_extract_field_descriptor1699990588361058521 1
@@ -2790,7 +2790,7 @@
 70/home/tobi/js-apps/forkify-app/node_modules/react-refresh/package.json1699990588305057880 0
 81/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/portals.js1699990588049054948 0
 76/home/tobi/js-apps/forkify-app/node_modules/css-what/lib/commonjs/index.d.ts1699990587877052981 0
-54/home/tobi/js-apps/forkify-app/dist/index.f7626f62.css1700337452054221589 0
+54/home/tobi/js-apps/forkify-app/dist/index.f7626f62.css1700392073271650568 0
 62/home/tobi/js-apps/forkify-app/node_modules/domutils/readme.md1699990587881053024 0
 75/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/regions/BT.js1699990587993054307 0
 61/home/tobi/js-apps/forkify-app/node_modules/sass/sass.node.js1699990635889605483 0
@@ -3097,7 +3097,7 @@
 74/home/tobi/js-apps/forkify-app/node_modules/css-what/lib/commonjs/types.js1699990587861052796 0
 102/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-isolate.js1699990588037054811 0
 94/home/tobi/js-apps/forkify-app/node_modules/htmlnano/lib/modules/minifyConditionalComments.mjs1699990588733062783 0
-53/home/tobi/js-apps/forkify-app/dist/index.e37f48ea.js1700340029565970483 0
+53/home/tobi/js-apps/forkify-app/dist/index.e37f48ea.js1700392102391882937 0
 95/home/tobi/js-apps/forkify-app/node_modules/css-select/node_modules/domutils/lib/index.d.ts.map1699990592269103299 0
 94/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/document-execcommand.js1699990588009054491 0
 95/home/tobi/js-apps/forkify-app/node_modules/caniuse-lite/data/features/background-attachment.js1699990587989054262 0
